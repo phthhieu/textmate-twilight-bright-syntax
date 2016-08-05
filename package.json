@@ -1,0 +1,18 @@
+{
+  "name": "textmate-active4d-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Textmate twilight-bright theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme",
+    "textmate",
+    "twilight-bright"
+  ],
+  "repository": "https://github.com/phthhieu/textmate-twilight-bright-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
+
